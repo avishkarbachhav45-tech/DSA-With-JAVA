@@ -28,5 +28,7 @@ public class Inputs {
         long lon = sc.nextLong();
         System.out.println(lon);
 
+        sc.close();
+
     }
 }
