@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ProductOf",
+            "request": "launch",
+            "mainClass": "ProductOf",
+            "projectName": "DSA-With-JAVA_66ad2340"
+        },
+        {
+            "type": "java",
+            "name": "Run Java Program in Terminal",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
