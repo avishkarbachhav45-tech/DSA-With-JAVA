@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "DSA-With-JAVA_66ad2340"
+        },
+        {
+            "type": "java",
             "name": "ProductOf",
             "request": "launch",
             "mainClass": "ProductOf",
