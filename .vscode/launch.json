@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "Diamond",
+            "projectName": "DSA-With-JAVA_66ad2340"
+        },
+        {
+            "type": "java",
             "name": "FloydsTriangle",
             "request": "launch",
             "mainClass": "FloydsTriangle",
