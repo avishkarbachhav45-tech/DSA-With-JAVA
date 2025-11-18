@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoD_ArrayCreation",
+            "request": "launch",
+            "mainClass": "TwoD_ArrayCreation",
+            "projectName": "DSA-With-JAVA_66ad2340"
+        },
+        {
+            "type": "java",
             "name": "Diamond",
             "request": "launch",
             "mainClass": "Diamond",
