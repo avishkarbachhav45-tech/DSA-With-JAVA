@@ -1,10 +1,6 @@
-# DSA-With-JAVA
-A complete journey of learning Data Structures and Algorithms using Java - from basics to advanced.
-
-
 # DSA With Java
 
-This repository contains programs and practice questions related to **Java fundamentals** and **pattern printing**.  
+A complete journey of learning Data Structures and Algorithms using Java - from basics to advanced.  
 All files are neatly organized into topic-wise folders for easy understanding.
 
 ---
@@ -60,5 +56,17 @@ Contains important array-based algorithms and problems:
 - Print All Subarrays  
 - Reverse Array  
 - Smallest Element in Array   
+
+---
+
+### **05-Sorting Algorithms/**
+Contains important Sorting algorithms and examples:
+
+- Assignments on sorting/    
+- Bubble Sort  
+- Insertion Sort  
+- Selection Sort  
+- Counting Sort  
+- Inbuilt Sort  
 
 ---
