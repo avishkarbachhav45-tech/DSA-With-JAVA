@@ -23,12 +23,16 @@ Contains beginner-friendly Java programs and concepts:
 - Functions  
 - Boilerplate code examples  
 
+---
+
 ### **02-Patterns-Part-I/**
 Basic pattern programs such as:
 - Half Pyramid  
 - Star Patterns  
 - Character Patterns  
 - Nested Loop Concepts  
+
+---
 
 ### **03-Patterns-Part-II/**
 Advanced pattern printing:
@@ -39,3 +43,22 @@ Advanced pattern printing:
 - Rhombus Patterns  
 - Inverted + Rotated Pyramids  
 - 0-1 Triangle  
+
+---
+
+### **04-Arrays/**
+Contains important array-based algorithms and problems:
+
+- Array as Argument  
+- Binary Search  
+- Buy & Sell Stocks  
+- Kadane’s Algorithm (Max Subarray Sum – O(n))  
+- Largest Element in Array  
+- Linear Search  
+- Maximum Subarray Sum (Brute & Optimized)  
+- Pairs in Array  
+- Print All Subarrays  
+- Reverse Array  
+- Smallest Element in Array   
+
+---
