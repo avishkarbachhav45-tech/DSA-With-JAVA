@@ -70,3 +70,34 @@ Contains important Sorting algorithms and examples:
 - Inbuilt Sort  
 
 ---
+
+
+### **06-2D-Arrays/**
+Contains programs related to 2D array creation, traversal, and important matrix-based problems:
+
+- Assignment-2D-Array/
+- Diagonal Sum of a Matrix  
+- Search in 2D Array  
+- Search in Sorted Matrix (Staircase Search)  
+- Spiral Matrix Traversal  
+- 2D Array Creation & Input Handling  
+
+---
+
+### **07-Strings/**
+Contains string-related problems and common interview questions:
+
+- CharAt() Method Usage  
+- Check Palindrome  
+- Compare Strings  
+- String Concatenation  
+- Convert String to Uppercase  
+- Largest String  
+- String Length  
+- Shortest Path (N, S, E, W Problem)  
+- String Compression  
+- String Basics  
+- StringBuilder Usage  
+- Substring Operations  
+
+---
