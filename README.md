@@ -105,7 +105,7 @@ Contains string-related problems and common interview questions:
 ### **08-Bit-Manipulation/**
 This folder contains programs related to bitwise operators and bit-level operations commonly used in competitive programming and optimization.
 
-- BitWise-Operators/
+#### BitWise-Operators/
 Includes basic bitwise operator programs:
 - BinaryAND.java  
 - BinaryLeftShift.java  
@@ -114,7 +114,7 @@ Includes basic bitwise operator programs:
 - BinaryRightShift.java  
 - BinaryXOR.java  
 
-- Operations-On-Bits/
+#### Operations-On-Bits/
 Contains logic-based bit manipulation problems:
 - ClearBit.java  
 - ClearLastBit.java  
@@ -133,12 +133,71 @@ Contains logic-based bit manipulation problems:
 This folder contains all programs related to **Object-Oriented Programming (OOP)** concepts in Java.
 
 #### Topics included:
-- Abstraction/
-- Constructors/
-- Inheritance/
-- Polymorphism/
+#### Abstraction/
+Programs based on abstraction, interfaces, and important keywords:
+- Abstraction.java  
+- ConstructorObjective.java  
+- Interfaces.java  
+- StaticKeyword.java  
+- SuperKeyword.java
+
+#### Constructors/
+Covers all types of constructors:
+- Constructor.java  
+- CopyConstructor.java  
+- DeepCopy.java  
+- ParameterizedConstructor.java  
+- ShallowCopy.java 
+
+#### Inheritances/
+Covers different types of inheritance in Java:
+- HierachicalInheritance.java  
+- HybridInheritance.java  
+- Inheritance.java  
+- MultiLevelInheritance.java  
+- SingleInheritance.java
+
+#### Polymorphism/
+Programs explaining runtime and compile-time polymorphism:
+- MethodOverloading.java  
+- MethodOverriding.java
+
 - AccessModifiers.java  
 - ClassObject.java  
 - GettersSetters.java  
+
+---
+
+### **10-Recursion/**
+This folder contains beginner to intermediate-level recursion problems divided into two parts.
+
+#### Part-1/
+Basic recursion programs:
+- FindFactorial.java  
+- FirstOccurance.java  
+- Isorted.java  
+- LastOccurance.java  
+- N_NaturalNumbers.java  
+- NthFibonacci.java  
+- PowerToN.java  
+- PrintIncreasing.java  
+- Recursion.java  
+
+#### Part-2/
+Intermediate recursion problems:
+- FriendsPair.java  
+- PrintBinStrings.java  
+- RemoveDuplicates.java  
+- TilingProblem.java  
+
+---
+
+### **11-Divide-&-Conquer/**
+This folder contains classical Divide-and-Conquer algorithm implementations.
+
+Programs included:
+- MergeSort.java  
+- QuickSort.java  
+- Sorted_RotatedArray.java  
 
 ---
