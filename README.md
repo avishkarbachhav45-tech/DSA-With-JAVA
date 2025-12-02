@@ -101,3 +101,44 @@ Contains string-related problems and common interview questions:
 - Substring Operations  
 
 ---
+
+### **08-Bit-Manipulation/**
+This folder contains programs related to bitwise operators and bit-level operations commonly used in competitive programming and optimization.
+
+- BitWise-Operators/
+Includes basic bitwise operator programs:
+- BinaryAND.java  
+- BinaryLeftShift.java  
+- BinaryOnesCompliment.java  
+- BinaryOR.java  
+- BinaryRightShift.java  
+- BinaryXOR.java  
+
+- Operations-On-Bits/
+Contains logic-based bit manipulation problems:
+- ClearBit.java  
+- ClearLastBit.java  
+- ClearRangeOfBits.java  
+- GetIthBit.java  
+- SetIthBit.java  
+- UpdateIthBit.java  
+- CheckPowerOf2.java  
+- CountSetOfBits.java  
+- EvenOdd.java  
+- FastExponentiation.java  
+
+---
+
+### **09-OOP/**
+This folder contains all programs related to **Object-Oriented Programming (OOP)** concepts in Java.
+
+#### Topics included:
+- Abstraction/
+- Constructors/
+- Inheritance/
+- Polymorphism/
+- AccessModifiers.java  
+- ClassObject.java  
+- GettersSetters.java  
+
+---
